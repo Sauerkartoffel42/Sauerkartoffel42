@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Sauerkartoffel42;Minecraft+%7C+Paper+%7C+Velocity" alt="Typing SVG" /></a>
 </h1>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PaperMC-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAOklEQVQ4T2NkoBAwUqifgQHxD6oGSC5uoiAGkVQJHRVgAjGEgkBQAWUBwU0QNIB2UV0HUCBmKAKBgABymQTyX6M8RQAAAABJRU5ErkJggg==" alt="Paper" />
